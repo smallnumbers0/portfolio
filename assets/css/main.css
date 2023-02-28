@@ -3220,3 +3220,12 @@ input, select, textarea {
 			}
 
 	}
+
+
+	/*** ADITIONAL STYLES **/
+
+	.strava-container {
+		display: flex;
+		flex-wrap: nowrap;
+		flex-direction: column;
+	}
